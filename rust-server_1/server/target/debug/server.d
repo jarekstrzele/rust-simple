@@ -1,0 +1,1 @@
+/home/jarek/Desktop/Prog/rust-server_1/server/target/debug/server: /home/jarek/Desktop/Prog/rust-server_1/server/src/http/method.rs /home/jarek/Desktop/Prog/rust-server_1/server/src/http/mod.rs /home/jarek/Desktop/Prog/rust-server_1/server/src/http/request.rs /home/jarek/Desktop/Prog/rust-server_1/server/src/main.rs /home/jarek/Desktop/Prog/rust-server_1/server/src/server.rs
