@@ -4,13 +4,11 @@ use std::io::prelude::* ;
 
 
 fn main() {
-    let mut file = File::open("info.txt").expect("Cant' opent file!") ;
+  let mut file = File::create("ouput.txt")
+    .expect("Could not create file!") ;
 
-    let mut contents = String::new();
-    file.read_to_string(&mut contents)
-        .expect("Oops! Can not reat the file...") ;
-
-    println!("File Contetns:\n\n{}", contents) ;
+    file.write_all(b"Welcome to dcode")
+        .expect("Cannot write to the file!") ;
 
 
 
