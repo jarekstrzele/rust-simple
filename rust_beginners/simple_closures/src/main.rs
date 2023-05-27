@@ -13,7 +13,8 @@ fn find_user(name: &str) -> Option<i32> {
     match name.as_str() {
         "sam" => Some(1) ,
         "matt" => Some(5),
-        "katie" => Some(9)main_ => None,
+        "katie" => Some(9),
+        _ => None,
     }
 }
 
