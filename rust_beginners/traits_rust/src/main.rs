@@ -1,30 +1,38 @@
 
-trait Fall {
-    fn hit_ground(&self);
+trait Perimeter {
+    fn calc_perimeter(&self) -> i32;
 }
 
-struct Vase;
-impl Fall for Vase {
-    fn hit_ground(&self){
-        println!("the vase broke!") ;
+struct Square{
+    a: i32,
+}
+
+impl Perimeter for Square {
+    fn calc_perimeter(&self)->i32 {
+        4*self.a
+    } 
+}
+
+struct Triangle{
+    a: i32,
+    b: i32,
+    c: i32,
+}
+
+impl Perimeter for Triangle {
+    fn calc_perimeter(&self) -> i32 {
+        self.a + self.b + self.c
     }
 }
 
-struct Cat;
-impl Fall for Cat{
-    fn hit_ground(&self) {
-        println!("the cat casually walked away")
-    }
+fn perimeter(shape: impl Perimeter){
+    let perimeter = shape.calc_perimeter() ;
+    println!("{}", perimeter) ;
+
 }
-
-fn fall(thing: impl Fall){
-    thing.hit_ground() ;
-}
-
-
 
 
 fn main() {
-    fall(Vase{}) ;
-    fall(Cat{}) ;
+    perimeter(Square{ a:10}) ;
+    perimeter(Triangle{ a:10, b:20, c:30}) ;
 }
