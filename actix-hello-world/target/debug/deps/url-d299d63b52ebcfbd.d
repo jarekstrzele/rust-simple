@@ -1,0 +1,13 @@
+/home/jarek/Desktop/Prog/rust-simple/actix-hello-world/target/debug/deps/url-d299d63b52ebcfbd.rmeta: /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/lib.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/host.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/origin.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/parser.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/path_segments.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/slicing.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/quirks.rs
+
+/home/jarek/Desktop/Prog/rust-simple/actix-hello-world/target/debug/deps/liburl-d299d63b52ebcfbd.rlib: /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/lib.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/host.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/origin.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/parser.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/path_segments.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/slicing.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/quirks.rs
+
+/home/jarek/Desktop/Prog/rust-simple/actix-hello-world/target/debug/deps/url-d299d63b52ebcfbd.d: /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/lib.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/host.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/origin.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/parser.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/path_segments.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/slicing.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/quirks.rs
+
+/home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/lib.rs:
+/home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/host.rs:
+/home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/origin.rs:
+/home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/parser.rs:
+/home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/path_segments.rs:
+/home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/slicing.rs:
+/home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.4.0/src/quirks.rs:
