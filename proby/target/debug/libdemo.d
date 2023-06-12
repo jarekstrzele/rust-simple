@@ -1,0 +1,1 @@
+/home/jarek/Desktop/Prog/rust-simple/proby/target/debug/libdemo.rlib: /home/jarek/Desktop/Prog/rust-simple/proby/src/group/g1.rs /home/jarek/Desktop/Prog/rust-simple/proby/src/group/mod.rs /home/jarek/Desktop/Prog/rust-simple/proby/src/helper.rs /home/jarek/Desktop/Prog/rust-simple/proby/src/lib.rs
