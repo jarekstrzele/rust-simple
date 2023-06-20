@@ -32,6 +32,11 @@ fn main() -> Result<(), Box<dyn Error>>{
     stdout.execute(EnterAlternateScreen)?;
     stdout.execute(Hide)?;
 
+
+    // rander loop in a separate thread
+    
+
+
     //game loop
     'gameloop: loop {
         while event::poll(Duration::default())?{

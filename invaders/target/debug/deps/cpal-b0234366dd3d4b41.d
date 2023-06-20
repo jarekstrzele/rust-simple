@@ -1,0 +1,13 @@
+/home/jarek/Desktop/Prog/rust-simple/invaders/target/debug/deps/cpal-b0234366dd3d4b41.rmeta: /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/lib.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/error.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/mod.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/alsa/mod.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/alsa/enumerate.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/null/mod.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/platform/mod.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/samples_formats.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/traits.rs
+
+/home/jarek/Desktop/Prog/rust-simple/invaders/target/debug/deps/cpal-b0234366dd3d4b41.d: /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/lib.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/error.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/mod.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/alsa/mod.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/alsa/enumerate.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/null/mod.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/platform/mod.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/samples_formats.rs /home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/traits.rs
+
+/home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/lib.rs:
+/home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/error.rs:
+/home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/mod.rs:
+/home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/alsa/mod.rs:
+/home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/alsa/enumerate.rs:
+/home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/null/mod.rs:
+/home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/platform/mod.rs:
+/home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/samples_formats.rs:
+/home/jarek/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/traits.rs:
