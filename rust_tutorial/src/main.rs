@@ -1,17 +1,25 @@
 #![allow(unused)]
 
-use std::io ;
-use rand::Rng ;
-use std::io::{Write, BufReader, BufRead, ErrorKind} ;
-use std::fs::File ;
-use std::cmp::Ordering ;
+// use std::io ;
+// use rand::Rng ;
+// use std::io::{Write, BufReader, BufRead, ErrorKind} ;
+// use std::fs::File ;
+// use std::cmp::Ordering ;
+// mod my_casting; // import mdule
+// use my_casting::{my_cast, Day} ; // use 
+mod my_vec ;
+
+use my_vec::vec_example ;
 
 
 fn main() {
+    vec_example();
 
+    // my_cast() ;
+    // let today: Day = Day::Monday ;
+    // println!("{:?}", today) ;
+    // println!("Is today the weekend {}", today.is_weekend()) ;
 
-
-    
 //     let random_num: i32 = rand::thread_rng().gen_range(1..6+1) ;
 //     println!("random number {:?}", random_num) ;
    
