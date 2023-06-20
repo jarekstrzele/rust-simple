@@ -7,13 +7,15 @@
 // use std::cmp::Ordering ;
 // mod my_casting; // import mdule
 // use my_casting::{my_cast, Day} ; // use 
-mod my_vec ;
+// mod my_vec ;
+// use my_vec::vec_example ;
 
-use my_vec::vec_example ;
+mod functions_my;
 
+use functions_my::function_examples ;
 
 fn main() {
-    vec_example();
+    function_examples() ;
 
     // my_cast() ;
     // let today: Day = Day::Monday ;
