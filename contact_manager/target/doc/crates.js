@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["ansi_term","atty","bitflags","clap","contact_manager","heck","lazy_static","libc","proc_macro2","proc_macro_error","proc_macro_error_attr","quote","strsim","structopt","structopt_derive","textwrap","thiserror","thiserror_impl","unicode_ident","unicode_segmentation","unicode_width","vec_map"];

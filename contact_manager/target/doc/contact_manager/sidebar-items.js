@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ParseError"],"fn":["load_records","main","parse_record","parse_records"],"struct":["Record","Records"]};
