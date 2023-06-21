@@ -9,14 +9,15 @@
 // use my_casting::{my_cast, Day} ; // use 
 // mod my_vec ;
 // use my_vec::vec_example ;
+// mod functions_my;
+// use functions_my::function_examples ;
 
-mod functions_my;
+mod generics_my;
 
-use functions_my::function_examples ;
+// use generics_my::generics_examples;
 
 fn main() {
-    function_examples() ;
-
+    generics_my::generics_examples();
     // my_cast() ;
     // let today: Day = Day::Monday ;
     // println!("{:?}", today) ;
