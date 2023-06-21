@@ -11,13 +11,23 @@
 // use my_vec::vec_example ;
 // mod functions_my;
 // use functions_my::function_examples ;
-
 mod generics_my;
+use generics_my::generics_examples;
 
-// use generics_my::generics_examples;
+mod hashmap_my;
+use hashmap_my::hashmap_example;
 
 fn main() {
-    generics_my::generics_examples();
+    generics_examples();
+
+
+
+
+//    let str1 = String::from("world") ;
+//    let str2 = str1.clone();
+//    println!("Hello {str1}") ;
+//    println!("Hello {}", &str1) ;
+   // generics_my::generics_examples();
     // my_cast() ;
     // let today: Day = Day::Monday ;
     // println!("{:?}", today) ;
