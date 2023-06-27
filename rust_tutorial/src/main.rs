@@ -17,10 +17,32 @@ use generics_my::generics_examples;
 mod hashmap_my;
 use hashmap_my::hashmap_example;
 
+mod restaurant;
+use crate::restaurant::order_food;
+
+mod errors_my ;
+
+mod iterator_my;
+use iterator_my::iter_example;
+
+mod closure_my;
+// use closure_my::closure_example ;
+mod box_my;
+
+mod concurrency;
 fn main() {
-    generics_examples();
+    concurrency::tread_example();
+    
+    //box_my::box_example();
 
+    //closure_my::closure_example();
+   
+   // iter_example() ;
 
+    //generics_examples();
+    //order_food() ;
+
+    // errors_my::errors_example() ;
 
 
 //    let str1 = String::from("world") ;
